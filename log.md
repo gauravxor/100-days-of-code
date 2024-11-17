@@ -17,3 +17,27 @@
 
 - [Solution](https://leetcode.com/problems/two-sum/submissions/1453932224/) to LC problem
 </details>
+
+
+<details>
+  <summary><h3>Day 2: November 17, 2024</summary>
+
+**Today's Progress**:
+
+- Solved : Leetcode problem [Sort-Colors](https://leetcode.com/problems/sort-colors/)
+- Learnt about the concepts OOPs in Java.
+- Started a personal project "[project_l](https://github.com/gauravxor/project_l)" which is intented to let two people watch a video together, remotely.
+
+**Thoughts:**
+
+- Fu*k around till it works.
+- Did not deep dived much into java today.
+- Solving "real" problems is an absolute joy. Faced an issue recently when I had to watch a video together with someone living at a remote place.
+  Dicovered a lack of peoper free services, so trying to build something that atleast I can use. Have very limited knowledge about web-sockets and how they
+  work, but look a dive, lets see how deep I can go.
+
+**Link to work:**
+
+- [Solution](https://leetcode.com/submissions/detail/1454975211/) to LC problem
+- [Github Repo](https://github.com/gauravxor/project_l) for "project_l".
+</details>
