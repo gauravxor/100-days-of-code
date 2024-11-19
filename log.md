@@ -41,3 +41,23 @@
 - [Solution](https://leetcode.com/submissions/detail/1454975211/) to LC problem
 - [Github Repo](https://github.com/gauravxor/project_l) for "project_l".
 </details>
+
+
+<details>
+  <summary><h3>Day 3: November 18, 2024</summary>
+
+**Today's Progress**:
+
+- Solved : Leetcode problem [Maximum SubArray ](https://leetcode.com/problems/maximum-subarray/description/)
+- Learnt about software desgin principles [Blog](https://medium.com/cognitivecraftsman/design-patterns-every-software-engineer-should-know-c4f83c32a7d8)
+- Bought a domain for my personal website [clumsycoder.com](https://clumsycoder.com/).
+
+**Thoughts:**
+
+- Feels good when we do something for ourself. Had a dream to buy a domain of and on my own. Fulfilled that today.
+
+**Link to work:**
+
+- [Solution](https://leetcode.com/submissions/detail/1456492632/) to LC problem
+
+</details>
