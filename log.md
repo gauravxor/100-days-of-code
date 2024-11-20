@@ -79,3 +79,26 @@
   player.
 
 </details>
+
+<details>
+  <summary><h3>Day 5: November 20, 2024</summary>
+
+**Today's Progress**:
+
+- Solved: Two leetcode problems
+  - [Best time to buy and sell stocks](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+  - [Majority element](https://leetcode.com/problems/majority-element/)
+
+**Thoughts:**
+
+- Running bit late. Clearing off the backlog for this challenge. Not giving up!!
+- Is problem solving easy?? I feel if we understand the problem properly, after multiple iterations, we will definitely
+  reach a point where we have dicovered a solution.
+
+**Link to work:**
+
+- Solution to
+    - [Best time to buy and sell stocks](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/1458600220/)
+    - [Majority element](https://leetcode.com/problems/majority-element/submissions/1458586468/)
+
+</details>
