@@ -18,7 +18,6 @@
 - [Solution](https://leetcode.com/problems/two-sum/submissions/1453932224/) to LC problem
 </details>
 
-
 <details>
   <summary><h3>Day 2: November 17, 2024</summary>
 
@@ -30,7 +29,7 @@
 
 **Thoughts:**
 
-- Fu*k around till it works.
+- Fu\*k around till it works.
 - Did not deep dived much into java today.
 - Solving "real" problems is an absolute joy. Faced an issue recently when I had to watch a video together with someone living at a remote place.
   Dicovered a lack of peoper free services, so trying to build something that atleast I can use. Have very limited knowledge about web-sockets and how they
@@ -41,7 +40,6 @@
 - [Solution](https://leetcode.com/submissions/detail/1454975211/) to LC problem
 - [Github Repo](https://github.com/gauravxor/project_l) for "project_l".
 </details>
-
 
 <details>
   <summary><h3>Day 3: November 18, 2024</summary>
@@ -59,5 +57,25 @@
 **Link to work:**
 
 - [Solution](https://leetcode.com/submissions/detail/1456492632/) to LC problem
+
+</details>
+
+<details>
+  <summary><h3>Day 4: November 19, 2024</summary>
+
+**Today's Progress**:
+
+- Made the HTML video player of 'project_l' working. Now it syncs the video state data like
+  play, pause and seek with other users connected with same websocket.
+
+**Thoughts:**
+
+- Too much workload in office. Exhausted AF. But need to move on.
+- HTML video player is simple yet damn powerful stuff. Starting to love JS a bit :)
+
+**Link to work:**
+
+- [Project_l](https://github.com/gauravxor/project_l/commit/e643f068b9f2aceff498f0ba791f6a4d3bd95dae), with working video
+  player.
 
 </details>
